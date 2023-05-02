@@ -192,7 +192,7 @@ int main(void)
   while (1)
   {
 	  Lcd_cursor(&lcd, 1,1);
-	   Lcd_string(&lcd, "Challa Sandeep");
+	   Lcd_string(&lcd, "Gokularamanan");
 	  }
 }
 ```
@@ -201,13 +201,16 @@ int main(void)
 
 
 
-## Output screen shots of proteus
+## Output screen shots of proteus:
+![1](https://user-images.githubusercontent.com/119518996/235643012-893d612a-247b-4031-8be0-ad995c0b3992.jpeg)
 
 
 
  
  
- ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
+ ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): ![4](https://user-images.githubusercontent.com/119518996/235643106-5d20ba27-ef7c-4566-8de4-ecc6d3975c63.jpeg)
+
+ 
  
  
 ## Result :
